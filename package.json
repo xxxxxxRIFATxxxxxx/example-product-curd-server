@@ -1,0 +1,11 @@
+{
+  "name": "example-product-curd-server",
+  "version": "1.0.0",
+  "description": "Example Product Curd Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md. Rifat Islam",
+  "license": "ISC"
+}
