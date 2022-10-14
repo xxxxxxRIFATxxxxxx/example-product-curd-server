@@ -26,7 +26,7 @@ app.use('/product', productRouter);
 // default route
 app.get('/', (req, res) => {
   res.send(`Welcome to ${process.env.APP_NAME}`);
-});
+})
 
 // error handler
 app.use(notFoundHandler);
